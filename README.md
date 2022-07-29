@@ -1,5 +1,5 @@
 
-# GAUDI: A Neural Architect for Immersive 3D Scene Generation, [Arxiv](). 
+# GAUDI: A Neural Architect for Immersive 3D Scene Generation, [Arxiv](https://arxiv.org/abs/2207.13751). 
 
 <p align="center">
 <img src="./viz/uncond/vlnce_0.gif" width="10%" />
